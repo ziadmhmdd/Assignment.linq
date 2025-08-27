@@ -207,7 +207,7 @@
             //var result = numbers.TakeWhile((num, index) => num >= index);
 
             // 7.4. Get the elements of the array starting from the first element divisible by 3.
-            //var result = numbers.SkipWhile(num => num % 3 != 0);
+            //var result = numbers.SkipWhile(num => num % 3 != 0); 
 
 
             #endregion
